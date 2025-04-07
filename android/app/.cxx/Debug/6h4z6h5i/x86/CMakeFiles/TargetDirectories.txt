@@ -1,0 +1,2 @@
+D:/projects/BMI/android/app/.cxx/Debug/6h4z6h5i/x86/CMakeFiles/edit_cache.dir
+D:/projects/BMI/android/app/.cxx/Debug/6h4z6h5i/x86/CMakeFiles/rebuild_cache.dir
